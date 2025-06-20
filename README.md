@@ -4,17 +4,17 @@
 
 
 ## Education (Ongoing)
-- Junior Year, PCMC
+- Senior Year, PCMC
 
 
 ## Skills
-- **Programming Languages**: Fortran
+- **Programming Languages**: Fortran, Python
 - **Operating Systems**: Linux
 - **Internet of Things (IoT)**
 - **Arduino**
 - **ESP-32**
 - **Sports**: Chess
-- **Music**: Flute & Beatboxing
+- **Music**: Flute, Ukulele & Beatboxing
 - **Graphic Designing**
 - **Problem-Solving**
 - **Team Collaboration**
@@ -29,7 +29,7 @@
 - **Fortran Projects**: Worked on numerous Fortran Projects, also I have replicated some of the complex projects.
 
 ## Achievements
-## Sophomore year
+## Freshmen & Sophomore year
 - Best outgoing student award
 - I have been SCHOOL STUDENT COUNCIL LEADER.
 - I have been SCHOOL HOUSE/CLUB CAPTAIN.
@@ -40,4 +40,5 @@
 - 2nd Place in Soccer.
 ## Junior Year
 - AISSE Topper Merit Award
+- Disciplinary Committee
 
